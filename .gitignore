@@ -11,7 +11,7 @@
 /[Uu]ser[Ss]ettings/
 /[Pp]rojectSettings/
 /[Aa]ssets/ABI.CCK/
-/[Aa]ssets/Azure[Sky] Dynamic Skybox/
+\Assets\Azure[Sky] Dynamic Skybox\Documentation.meta
 /[Aa]ssets/Azure[Sky] Dynamic Skybox/Documentation/
 /[Aa]ssets/Bakery/
 /[Aa]ssets/Editor/
@@ -82,3 +82,4 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+*.pdf
