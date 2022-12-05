@@ -9,6 +9,17 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/[Pp]rojectSettings/
+/[Aa]ssets/ABI.CCK/
+/[Aa]ssets/Azure[Sky] Dynamic Skybox/
+/[Aa]ssets/Bakery/
+/[Aa]ssets/Editor/
+/[Aa]ssets/MagicaCloth/
+/[Aa]ssets/Plugins/
+/[Aa]ssets/ScreenSpace_Ubershader-master/
+/[Aa]ssets/Shift - Complete Sci-Fi UI/
+/[Aa]ssets/TextMesh Pro/
+
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
