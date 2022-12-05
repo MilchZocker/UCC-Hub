@@ -4,11 +4,11 @@
 ![hftthr](https://cdn.discordapp.com/attachments/1009110228173848707/1009112802969010186/unknown.png)
 
 Features:
-quick access menu!
+Quick Access Menu!
 
-total player in instance counter!
+Total Player in Instance Counter!
 
-avatar height measure!
+Avatar Height Measure!
 
 100% baked light!
 
